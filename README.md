@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:   https://moonlit-syrniki-58e8e7.netlify.app/login 
+In the project directory, you can run:   https://moonlit-syrniki-58e8e7.netlify.app/
 
 ### `npm start`
 
